@@ -7,7 +7,7 @@ about:
   latestVersion: "1.0.4"
   latestRelease: "1.0.4"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T00:04:17Z
+  collectedAt: 2026-09-11T05:19:54Z
 timeline:
   created: 2015-05-26
   lastCommit: 2021-07-27
@@ -84,7 +84,7 @@ total:
   commit: 250
 ---
 path: /home/runner/.x-repo/github.com/yunify/qingcloud-cli
-collectedAt: 2026-09-11T00:04:17Z
+collectedAt: 2026-09-11T05:19:55Z
 loc:
   Python:
     code: 8354
